@@ -1,0 +1,140 @@
+#coachscenepartner 
+{
+	width:150px; 
+	height:700px; 
+	background:#555; 
+	margin-top:-700px;
+	display:none; 
+	position:absolute; 
+	margin-left: 275px;
+	padding: 10px;
+}
+
+
+#inperson
+{
+	width:150px; 
+	height:700px; 
+	background:#666;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 425px; 
+	padding: 10px;
+}
+
+#virtual {
+	width:150px; 
+	height:200px; 
+	background:#096;
+	margin-top:10px;
+	display:none; 
+	position:absolute;
+	margin-left: 575px; 
+}
+
+#classlocation {
+	width:150px; 
+	height:700px; 
+	background:#777;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 575px;
+	padding: 10px;
+}
+
+#skills {
+	width:150px; 
+	height:700px; 
+	background:#CC3;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 1000px;
+	padding: 10px;
+}
+
+#skills2 {
+	width:150px; 
+	height:700px; 
+	background:#888;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 725px;
+	padding: 10px;
+}
+
+#time {
+	width:150px; 
+	height:700px; 
+	background:#CC3;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 1150px;
+	padding: 10px;
+}
+
+#time2 {
+	width:150px; 
+	height:700px; 
+	background:#999;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 875px;
+	padding: 10px;
+}
+
+#duration {
+	width:150px; 
+	height:700px; 
+	background:#CC3;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 1300px;
+	padding: 10px;
+}
+
+#duration2 {
+	width:150px; 
+	height:700px; 
+	background:#888;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 1025px;
+	padding: 10px;
+}
+
+#purchase {
+	width:150px; 
+	height:700px; 
+	background:#CC3;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 1450px;
+	padding: 10px;
+}
+
+#purchase2 {
+	width:150px; 
+	height:700px; 
+	background:#777;
+	margin-top:-700px;
+	display:none; 
+	position:absolute;
+	margin-left: 1175px;
+	padding: 10px;
+}
+
+button {
+	background-color: white;
+	color: #222;
+	border: 0px;
+	border-radius: 5px;
+}
